@@ -12,5 +12,5 @@
   
 # Development server:
 * On your browser, navigate to http://localhost:8080/
-* A form will display, now you can start testing the API by entering the credit card details information, if the details are valid you will reach a "Success message", if not, you will receive an error message asking you to correct the invalid information.
+* A form will display, now you can start testing the API by entering the credit card details, if the details are valid you will reach a "Success message", if not, you will receive an error message asking you to correct the invalid information.
 * You can make use of the PayPal card generator for developers API for testing https://developer.paypal.com/api/rest/sandbox/card-testing/ 
