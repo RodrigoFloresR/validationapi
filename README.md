@@ -3,7 +3,7 @@
 * It implements the dependecies:
   - spring-boot-starter-thymeleaf for the frontend.
   - spring-boot-starter-validation for hibernate validator annotations.
-  - spring-boot-starter-web for making use of Spring MVC and embedded container Apache Tomcat )
+  - spring-boot-starter-web for making use of Spring MVC and embedded container Apache Tomcat.
 
 # Setting up the application:
 * Download the "validationapi" from this repository to your local machine, extract the zip file and open the "valitation" folder with your favorite IDE. 
