@@ -6,7 +6,8 @@
   - spring-boot-starter-web for making use of Spring MVC and embedded container Apache Tomcat.
 
 # Setting up the application:
-* Download the "validationapi" from this repository to your local machine, extract the zip file and open the "valitation" folder with your favorite IDE. 
+* You can clone this project or download the "validationapi" file from this repository to your local machine, extract the zip file and open the "valitation" folder with your favorite IDE.
+* Once the the project is opened, download the Maven sources. 
 * Run the "ValidationapiApplication" main class.
   
 # Development server:
